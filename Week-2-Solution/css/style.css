@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Harry Potter';
-  src: url('../css/harrypotter.ttf') format('truetype');
+  src: url('../html-css-js-coursera/Week-2-Solution/css/harrypotter.ttf') format('truetype');
 }
 
 * {
