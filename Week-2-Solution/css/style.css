@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Harry Potter';
-  src: url('../css/harrypotter.TTF');
+  src: url('https://kavishnama.github.io/html-css-js-coursera/Week-2-Solution/css/harrypotter.TTF');
 }
 
 * {
