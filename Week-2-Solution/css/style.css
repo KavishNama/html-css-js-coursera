@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Harry Potter';
-  src: url('harrypotter.TTF') format('truetype');
+  src: url('../css/harrypotter.TTF');
 }
 
 * {
