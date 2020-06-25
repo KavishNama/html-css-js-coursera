@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Harry Potter';
-  src: url('../html-css-js-coursera/Week-2-Solution/css/harrypotter.ttf') format('truetype');
+  src: url('https://kavishnama.github.io/html-css-js-coursera/Week-2-Solution/css/harrypotter.TTF');
 }
 
 * {
@@ -14,6 +14,7 @@ h1 {
     text-align: center;
     color: white;
     margin-bottom: 15px;
+    font-size: 500%;
 }
 
 body {
@@ -27,6 +28,7 @@ p {
 	padding: 10px;
 	margin: 0;
   opacity: 100%;
+  font-size: 150%;
 }
 
 .container {
@@ -43,7 +45,7 @@ section {
 	border:	1px solid white;
 	background-color: #E0FFFF;
 	width: 100%;
-	height: 200px;
+	height: 300px;
 	color: black;
 	position: relative;
 	overflow: auto;
@@ -65,16 +67,19 @@ section > div {
 #imperio {
     background-color: #00BFFF;
     opacity: 100%;
+    font-size: 250%;
 }
 
 #crucio {
     background-color: #FF1439;
     opacity: 100%;
+    font-size: 250%;
 }
 
 #avada-kedavra {
     background-color: #008000;
     opacity: 100%;
+    font-size: 250%;
 }
 
 .row {
