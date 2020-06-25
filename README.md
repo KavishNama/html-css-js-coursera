@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/KavishNama/html-css-js-coursera/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 [HTML File](https://kavishnama.github.io/html-css-js-coursera/Week-2-Solution/index.html)
-[CSS File]()
+[CSS File](https://kavishnama.github.io/html-css-js-coursera/Week-2-Solution/css/style.css)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
